@@ -4,7 +4,7 @@ Code, data and experiment scripts for the paper *Recall-Constrained Alert Triage
 
 Repository: https://github.com/vizarrd/siem-alert-triage-recall
 
-Archived release: Zenodo DOI **[to be filled after the first release]**.
+Archived release: Zenodo DOI [10.5281/zenodo.23620144](https://doi.org/10.5281/zenodo.23620144) (always resolves to the latest version).
 
 The paper studies how alert-triage models behave when moved between environments: why F1 on an
 attack-heavy test set can hide "flag everything" behaviour, why thresholds do not transfer, and how a
