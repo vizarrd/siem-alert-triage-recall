@@ -1,6 +1,6 @@
-# Recall-Guaranteed Threshold Calibration for SOC Alert Triage
+# Recall-Constrained Alert Triage Across SOCs: Statistical Threshold Calibration
 
-Code, data and experiment scripts for the paper *Recall-Guaranteed Threshold Calibration for SOC Alert Triage*.
+Code, data and experiment scripts for the paper *Recall-Constrained Alert Triage Across SOCs: Statistical Threshold Calibration*.
 
 Repository: https://github.com/vizarrd/siem-alert-triage-recall
 
