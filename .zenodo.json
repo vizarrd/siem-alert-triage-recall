@@ -1,5 +1,5 @@
 {
-  "title": "Recall-Constrained Alert Triage Across SOCs: Statistical Threshold Calibration",
+  "title": "Recall-Guaranteed Threshold Calibration for SOC Alert Triage",
   "upload_type": "software",
   "description": "Code, labelled Wazuh alert data, live-calibration labels and corrections, and all experiment scripts and saved outputs for the paper. The public AIT Alert Data Set (CC BY 4.0) is not copied in full; only small subsets and derived results are included. See README.md for how to obtain the full data.",
   "creators": [

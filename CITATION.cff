@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-title: "Recall-Constrained Alert Triage Across SOCs: Statistical Threshold Calibration"
+title: "Recall-Guaranteed Threshold Calibration for SOC Alert Triage"
 type: software
 authors:
   - family-names: "K"
